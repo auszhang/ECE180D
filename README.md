@@ -1,2 +1,4 @@
-# test-repo
-Test repository for ECE180DA, Lab 0 Task 1
+# ECE180D
+Repository for ECE180DA/DB
+
+Austin Zhang, 604736503
